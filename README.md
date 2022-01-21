@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @muraterennar
+- 👀 I’m interested in Computer Programming
+- 🏫 I'm a university student
+- 🌱 I’m currently learning C#, Java and Angular
+- 📫 How to reach me muraterennar@gmail.com or https://tr.linkedin.com/in/murat-eren-nar-3898a1215 
