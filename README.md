@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Murat Eren Nar</h1>
-<h3 align="start" font="medium">Bilgisayar programcılığı mezunuyum ve web ile mobil geliştirme alanlarına ilgi duyuyorum. Teknoloji dünyasındaki yenilikleri takip etmek ve kendimi sürekli geliştirmek benim için bir tutku. Web ve mobil geliştirme konusunda uzmanlaşmayı hedefliyorum, çünkü bu alanlarda başarılı bir kariyer yapmak benim için heyecan verici. Gelecekte, öncü projelerde çalışmak ve teknolojiyi kullanıcıların hayatını kolaylaştırmak için kullanmak istiyorum. Kendimi sürekli öğrenmeye adayarak kariyerimin en üst seviyeye taşımak istiyorum</h3>
+<h3 align="start">Bilgisayar programcılığı mezunuyum ve web ile mobil geliştirme alanlarına ilgi duyuyorum. Teknoloji dünyasındaki yenilikleri takip etmek ve kendimi sürekli geliştirmek benim için bir tutku. Web ve mobil geliştirme konusunda uzmanlaşmayı hedefliyorum, çünkü bu alanlarda başarılı bir kariyer yapmak benim için heyecan verici. Gelecekte, öncü projelerde çalışmak ve teknolojiyi kullanıcıların hayatını kolaylaştırmak için kullanmak istiyorum. Kendimi sürekli öğrenmeye adayarak kariyerimin en üst seviyeye taşımak istiyorum</h3>
 
 - 👨‍💻 Web Sitem : [https://muraterennar.com](https://muraterennar.com)
 
